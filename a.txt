@@ -5,6 +5,3 @@ eee
 fff
 ggg
 hhh
-ddd
-ddd
-dd
